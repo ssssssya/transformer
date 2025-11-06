@@ -23,7 +23,7 @@ pip install torch datasets matplotlib tqdm
 
 ```
 ## 数据准备
-你可以在官网或该链接https://huggingface.co/datasets/carlosejimenez/wikitext__wikitext-2-raw-v1中下载WikiText-2数据集
+你可以在官网或该链接https://huggingface.co/datasets/carlosejimenez/wikitext__wikitext-2-raw-v1 中下载WikiText-2数据集
 
 ## 运行命令
 python -m scripts.train_encoder
